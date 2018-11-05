@@ -1,2 +1,2 @@
 # Alien teleport
-The Alien will teleport between two gates
+A pink alien will teleport between two gates
